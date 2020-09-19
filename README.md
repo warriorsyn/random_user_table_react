@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Clonar projeto 
 
-In the project directory, you can run:
+Clone esse projeto no git através do comando `git clone`
 
 ### `npm start`
 
